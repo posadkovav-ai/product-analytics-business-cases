@@ -11,7 +11,7 @@
 | Дашборд с линейными графиками и KPI | 📊 Визуализация |
 | Выводы о балансе two-sided platform | 🎯 Продуктовое мышление |
 
-🔗 [Подробнее →] ()
+🔗 [Подробнее →] (https://github.com/posadkovav-ai/product-analytics-business-cases/blob/01_new_users_couriers/README.md)
 
 ---
 
