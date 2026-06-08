@@ -25,4 +25,4 @@
 | Графики темпов прироста и разницы темпов | 📊 Анализ волатильности |
 | Расчёт абсолютного и относительного разрыва | 🎯 Two-sided platform метрики |
 
-🔗 [Подробнее →]()
+🔗 [Подробнее →](https://github.com/posadkovav-ai/product-analytics-business-cases/blob/02_user_actions_courier_actions%2C/README.md)
