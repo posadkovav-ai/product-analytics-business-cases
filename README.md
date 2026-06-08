@@ -79,8 +79,8 @@ ORDER BY d.date;
 - 📊 График накопленных `total_users` и `total_couriers`
 - 🎛️ Фильтр по периодам (месяц, квартал)
 
-📸 *[Скриншот дашборда]*  
-🔗 *[Ссылка на интерактивный дашборд]*
+<img width="1771" height="806" alt="image" src="https://github.com/user-attachments/assets/e7859740-9c91-4cd5-92a2-5340962f19e3" />
+
 
 ---
 
